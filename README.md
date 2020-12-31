@@ -1,4 +1,4 @@
-# Echo
+# Eco
 A simple [Next.js](https://nextjs.org/) app that helps you test REST request.
 
 ## Getting Started
