@@ -8,6 +8,7 @@ function MyApp({ Component, pageProps }) {
         <>
             <Head>
                 <title>Eco</title>
+                <meta name="description" content="Test your REST client's requests with a single echo endpoint" />
                 <link rel="icon" href="/favicon.ico" />
                 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
                 <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
