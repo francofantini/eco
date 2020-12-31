@@ -11,6 +11,21 @@ export default function Home() {
                     </a>
                 </p>
                 <p className="py-2">Eco is a service to test your REST client&apos;s requests. It provides a single endpoint to test all REST verbs.</p>
+
+                <a
+                    className="mt-10"
+                    href="https://www.producthunt.com/posts/eco-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-eco-2"
+                    target="_blank"
+                    rel="noreferrer"
+                >
+                    <img
+                        src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=279606&theme=dark"
+                        alt="Eco - Test your REST client's requests with a single echo endpoint | Product Hunt"
+                        style={{ width: "250px", height: "54px" }}
+                        width="250"
+                        height="54"
+                    />
+                </a>
             </main>
 
             <footer className="border-t flex items-center justify-center py-4">
