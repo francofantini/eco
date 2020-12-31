@@ -4,13 +4,13 @@ export default function Home() {
             <main className="flex-1 flex flex-col items-center justify-center">
                 <h1 className="text-6xl text-center mb-2">Welcome to Eco!</h1>
 
-                <p className="text-center text-xl py-2">
+                <p className="text-center text-xl p-2">
                     Get started by navigating to{" "}
                     <a href="/api">
                         <code className="bg-gray-100 dark:bg-gray-700 rounded p-1 font-mono">/api</code>
                     </a>
                 </p>
-                <p className="py-2">Eco is a service to test your REST client&apos;s requests. It provides a single endpoint to test all REST verbs.</p>
+                <p className="p-2 text-center">Eco is a service to test your REST client&apos;s requests. It provides a single endpoint to test all REST verbs.</p>
 
                 <a
                     className="mt-10"
