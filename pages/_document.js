@@ -1,4 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
+import Script from "next/script";
 
 export default class MyDocument extends Document {
     render() {
@@ -6,7 +7,7 @@ export default class MyDocument extends Document {
             <Html lang="en">
                 <Head />
                 <body>
-                    <script src="noflash.js" />
+                    <Script src="noflash.js" />
                     <Main />
                     <NextScript />
                 </body>

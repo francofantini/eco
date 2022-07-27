@@ -10,7 +10,7 @@ export default function Home() {
                         <code className="bg-gray-100 dark:bg-gray-700 rounded p-1 font-mono">/api</code>
                     </a>
                 </p>
-                <p className="p-2 text-center">Eco is a service to test your REST client&apos;s requests. It provides a single endpoint to test all REST verbs.</p>
+                <p className="p-2 text-center">Eco is a service to test your REST client&apos;s requests. It provides a single endpoint to test all REST methods.</p>
 
                 <a
                     className="mt-10"
